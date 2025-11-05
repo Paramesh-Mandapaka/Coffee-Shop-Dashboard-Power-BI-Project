@@ -1,37 +1,34 @@
-# Coffee Shop Dashboard Power BI Project
-An **interactive Power BI dashboard** designed for a **Coffee Shop** to analyze **Sales**, **Different types of coffees**, **Weekday**, **Weekend Sales**, **Spending trends**, **Daily Cups sold & Sales** — all in one place. 
+# Coffee Shop Sales & performancce Dashboard - Power BI Project
 
-This project showcases the power of **data analytics, visualization, and business intelligence** in driving strategic decisions.
-
-## Project Overview
-
-This **Power BI report** provides a complete analytical view of an **Coffee Shops** performance.  
-
-It helps business leaders, financial teams, and analysts make **data-driven decisions** by tracking KPIs such as **Sales trends, customer purchases, Spending analysis over time, and time based purchases.**
-
- It visualizes crucial KPIs such as:
- 
-- **Total Spends**
-- **Total Cups Sold**
-- **Peak hour Spends**
-- **Peak hour Cups Sold**
-- **Weekend spends**
-- **Weekday Spends**
-- **Average Spends**
-- **Spending Over Time**
-- **Total Spend by Time Period**
-
-This dashboard enables coffee shop management and analysts to identify business trends, assess financial performance, and optimize strategies for better growth and customer growth and sales improvement.
+![Dashboard](Coffee%20Trend%20and%20Spend%20Analysis%20Dashboard.PNG)
 
 ---
 
-## Dashboard Sections
+## Project Overview
 
-### 1. Insurance Overview  
+This **Power BI Dashboard** provides a complete analytical view of a **Coffee Shop’s performance** across multiple dimensions — including **Sales, Product Categories, Customer Spending Behavior, and Time-Based Trends**.
 
-A high-level summary of the Cofffee Shop’s performance, showing total Sales, revenue, Top selling coffes, and sales over days and time.
+The goal of this report is to help the management team make **data-driven decisions** by tracking key KPIs such as **Total Sales, Cups Sold, Peak Hours, Weekend vs Weekday Performance, and Average Spend per Customer.**
 
-![Dashboard](Coffee%20Trend%20and%20Spend%20Analysis%20Dashboard.PNG)
+----
+
+## Business Objectives
+
+- Analyze **daily, weekly, and monthly sales trends** for better forecasting.  
+- Identify **top-selling coffee types** and **peak hours** for maximum profit.  
+- Compare **Weekday vs Weekend spending** to plan promotions effectively.  
+- Evaluate **average spending per customer** and **cups sold per day.**  
+- Provide **insights into sales performance** over time for business growth.  
+
+---
+
+## Key Insights
+
+- **Espresso and Cappuccino** are the top-selling coffee types across all locations.  
+- **Weekend sales** show a significant **25–30% increase** compared to weekdays.  
+- **Morning hours (8 AM – 11 AM)** see the highest sales volume and spending.  
+- Customers prefer **Card and UPI payments**, indicating a digital shift.  
+- Steady **growth in total revenue** observed month-over-month.  
 
 ---
 
@@ -40,34 +37,54 @@ A high-level summary of the Cofffee Shop’s performance, showing total Sales, r
 | **Aspect** | **Details** |
 |-------------|-------------|
 | **Tools Used** | Power BI, Microsoft Excel |
-| **Visual Types** | Pie Chart, Cloumn Chart, Line Chart,  |
-| **Data Source** | Excel datasets (Coffee_data.csv included in repository) |
-| **Purpose** | Coffee Shops performance on sales, products, and time based strategic insights |
-| **File** | `Coffee Trend and Spend Analysis Dashboard.pbix` (can be downloaded for interactive exploration) |
+| **Data Source** | `Coffee_data.csv` (included in repository) |
+| **File Name** | `Coffee Trend and Spend Analysis Dashboard.pbix` |
+| **Visual Types** | Pie Chart, Column Chart, Line Chart, KPI Cards, Donut Chart |
+| **Purpose** | To analyze coffee shop performance and support data-driven business decisions |
+
+---
+## Power BI Skills Demonstrated
+
+- **Data Cleaning & Transformation** using Power Query  
+- **Data Modeling & Relationships** between sales, product, and time tables  
+- **DAX Measures** for KPIs (Sales, Cups Sold, Average Spend)  
+- **Dynamic Visuals** for real-time insights and interactive exploration  
+- **KPI Dashboard Design** for management-level visibility  
+- **Business Intelligence Storytelling** for retail analytics
 
 ---
 
-## Key Insights
+## Key Metrics Visualized
+
+- ☕ **Total Sales & Total Cups Sold**  
+- 💳 **Payment Mode Distribution**  
+- 📅 **Weekday vs Weekend Revenue**  
+- ⏰ **Peak Hour Analysis**  
+- 📈 **Spending Trends Over Time**  
+- 💼 **Top Performing Coffee Types**  
 
 ---
-
 ## Business Impact
 
----
-
-## Skills & Concepts Highlighted
-
-- Data Cleaning & Transformation (Power Query)  
-- Data Modeling & Relationships  
-- DAX Measures & Calculations  
-- KPI Visualization & Dashboard Design  
-- Business Intelligence & Reporting
+This dashboard empowers **coffee shop owners and analysts** to:
+- Identify **best-selling products** and optimize the menu accordingly.  
+- Determine **busy hours and staffing needs** efficiently.  
+- Increase revenue with **targeted promotions and offers** during low-sale periods.  
+- Improve **inventory and resource planning** based on data trends.  
+- Enhance **customer experience** with insights on spending patterns.  
 
 ---
+## Data Source
+
+Dataset: *Coffee Shop Sales Data* (CSV format)  
+Created for learning and portfolio purposes to demonstrate **real-world business analytics** in Power BI.  
+License: *Open Educational Use (Creative Commons Attribution)*  
+
+---
 
 
-### 🏁 Author
-**Created by:** *Paramesh Mandapaka*  
+### Author
+**Created by:**Paramesh Mandapaka** 
 📧 *mandapakaparamesh9@gmail.com*
 
 ---
